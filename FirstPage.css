@@ -1,0 +1,39 @@
+.Page{
+    background-color: beige;
+}
+.head{
+    text-align: center;
+}
+.img1{
+    height: 500px;
+    width: 370px;
+    margin-left: 0px;
+}
+.img2{
+    height: 500px;
+    width: 370px;
+    margin-left: 5px;
+}
+.img3{
+    height: 500px;
+    width: 370px;
+    margin-left: 5px;
+}
+.img4{
+    height: 500px;
+    width: 366px;
+    margin-right: 0px;
+    margin-left: 5px;
+}
+.Yes{
+    background-color: beige;
+    background-image: url(y1.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b1{
+    color: azure;
+}
+.No{
+    background-color: beige;
+}
